@@ -1,0 +1,30 @@
+koncept klasy EasyGame
+
+        if Button_one.game_mode == 1:
+            EasyGame(self.textures,self.sounds,self.previous_screen)
+        elif Button_one.game_mode == 2:
+            pass
+        elif Button_one.game_mode == 3:
+            pass
+
+
+class EasyGame():
+    def __init__(self, textures, sounds, previousScreen):
+        self.screen = SCREEN
+        self.textures = textures
+        self.sounds = sounds
+        self.previous_screen = previousScreen
+        Game.background_image(self)
+        self.main_game()
+
+    def main_game(self):
+        while True:
+            self.check_events()
+            Game.background_image(self)
+            #self.show_main_game()
+            pygame.display.update()
+
+    def check_events(self):
+        for event in pygame.event.get():
+            if event.type == pygame.QUIT:
+                Game.close(self)

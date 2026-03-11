@@ -1,0 +1,25 @@
+Procedura uruchamiania rakiety Titan II
+
+1.Władza do wydania rozkazu
+Tylko Prezydent USA miał prawo do wydania rozkazu startu rakiety Titan II. Po wydaniu rozkazu, kody startowe były wysyłane do silosów z Kwatery Głównej Strategicznego Dowództwa Powietrznego (SAC) lub jego zapasowego centrum w Kalifornii. Sygnał zawierał 35-literowy kod przesyłany drogą audio.
+
+2.Sprawdzenie kodu
+Dwóch operatorów rakiety zapisuje kod w notatniku. Następnie porównują swoje kody. Jeśli kody są zgodne, przechodzą do czerwonego sejfu zawierającego dokumenty dotyczące startu rakiety. Sejf miał dwa zamki, każdy operator miał unikalną kombinację, która pozwalała otworzyć swoją część zamka.
+
+3.Weryfikacja sub-kodu
+W sejfie znajdowały się koperty oznaczone dwuliterowymi kodami. W 35-literowym kodzie przesłanym z centrali znajdował się 7-literowy sub-kod. Pierwsze dwie litery sub-kodu wskazywały, którą kopertę należy otworzyć. W środku znajdował się plastikowy "cookie" z pięcioma literami. Jeśli te litery pasowały do pozostałych pięciu liter sub-kodu, rozkaz startu był uznawany za autentyczny.
+
+4.Odblokowanie rakiety
+Wiadomość zawierała również 6-literowy kod do odblokowania rakiety. Kod ten był wprowadzany do osobnego systemu, który otwierał zawór motylkowy w jednej z linii utleniacza w silnikach rakiety. Po odblokowaniu, rakieta była gotowa do startu.
+
+5.Czas startu
+Wiadomość zawierała także czas startu, który mógł być natychmiastowy lub zaplanowany na późniejszy termin.
+
+6.Uruchomienie startu
+W ustalonym czasie obaj operatorzy wkładają klucze do swoich paneli kontrolnych i przekręcają je w ciągu dwóch sekund. Klucze muszą być przytrzymane przez pięć sekund. Panele kontrolne były umieszczone zbyt daleko od siebie, aby jedna osoba mogła je uruchomić samodzielnie w wyznaczonym czasie.
+
+7.Sekwencja startowa rakiety
+Po prawidłowym przekręceniu kluczy, rozpoczyna się sekwencja startowa rakiety. Najpierw akumulatory rakiety Titan II są całkowicie ładowane, a rakieta odłącza się od zasilania silosu. Drzwi silosu otwierają się, wywołując alarm „SILO SOFT” w pomieszczeniu kontrolnym. System naprowadzania rakiety Titan II przejmuje kontrolę nad rakietą, wprowadzając dane do naprowadzenia na cel.
+
+8.Zapłon silników
+Następuje zapłon głównych silników, a po kilku sekundach zostają uwolnione pirotechniczne śruby, które trzymają rakietę w silosie, co umożliwia jej start.

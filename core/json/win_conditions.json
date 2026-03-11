@@ -1,0 +1,20 @@
+{
+    "number_of_nuke_keys_switched": [
+        {
+            "id": 0,
+            "value": 0
+        }
+    ],
+    "number_of_valve_code_entered": [
+        {
+            "id": 0,
+            "value": 3
+        }
+    ],
+    "number_of_safe_code_entered": [
+        {
+            "id": 0,
+            "value": 0
+        }
+    ]
+}
