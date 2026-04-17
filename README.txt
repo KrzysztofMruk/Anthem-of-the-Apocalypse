@@ -4,4 +4,4 @@ Z racji na to, że ponowne przestudiowanie napisanego przeze mnie kodu, jego prz
 UWAGA! Z racji na specyfikę kodu, nie należy zmieniać struktury folderu ani jego nazwy, a plik .exe uruchomi się poprawnie będąc tylko w tym folderze.
 Niemniej jednak, gra jest "grywalna". 
 Zapraszam więc do jej przetestowania i życzę przyjemnie spędzonego czasu.
-~ Krzysztof Mruk marzec 2026
+~ Krzysztof Mruk, marzec 2026
